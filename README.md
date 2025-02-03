@@ -1,5 +1,5 @@
 # CPE-019
-<p align="center>
+<p align="center">
     I'm Sebashtian Ryzel C. Baldovino, currently enrolled as a student in TIP majoring in Computer Engineering
 </p>
 <p align="center">
